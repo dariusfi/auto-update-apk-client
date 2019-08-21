@@ -1,3 +1,6 @@
+This is a fork from https://github.com/lazydroid/auto-update-apk-client. I updated it and added bugfixes, as the original repository is no longer maintained.
+Here's the original README:
+
 
 ## Private Android applications also like to get updated
 
